@@ -4,5 +4,6 @@
   "useTabs": false,
   "singleQuote": true,
   "arrowParens": "always",
+  "semi": true,
   "plugins": ["prettier-plugin-organize-imports", "prettier-plugin-tailwindcss"]
 }
