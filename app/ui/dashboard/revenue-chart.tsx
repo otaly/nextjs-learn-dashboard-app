@@ -8,10 +8,12 @@ import { lusitana } from '@/app/ui/fonts';
 // https://airbnb.io/visx/
 
 export default async function RevenueChart({
+  // eslint-disable-next-line @typescript-eslint/no-unused-vars
   revenue,
 }: {
   revenue: Revenue[];
 }) {
+  // eslint-disable-next-line @typescript-eslint/no-unused-vars
   const chartHeight = 350;
   // NOTE: Uncomment this code in Chapter 7
 
