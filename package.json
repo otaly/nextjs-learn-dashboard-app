@@ -6,7 +6,7 @@
     "start": "next start",
     "lint": "eslint .",
     "prettier": "prettier --check .",
-    "prettier:fix": "prettier --write"
+    "prettier:fix": "prettier --write ."
   },
   "dependencies": {
     "@heroicons/react": "^2.1.4",
